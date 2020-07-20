@@ -44,4 +44,7 @@
     "last 2 versions",
     "not dead"
   ]
+  "devDependencies": {
+  "lodash": ">=4.17.19"
+}
 }
